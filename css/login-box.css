@@ -1,0 +1,64 @@
+
+#login-box {
+	width:210px;
+	height: 232px;
+	padding: 1px 5px 0 7px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(../images/optimized/oie_png3.png) no-repeat left top;
+}
+
+#login-box img {
+	height: 25px;
+	border:none;
+}
+
+#login-box h1 {
+	padding:0;
+	margin:1px 0 0 59px;
+	color: #ebebeb;
+	font: bold 20px "Calibri", Arial;
+}
+
+
+#login-box-name {
+	font-size: 12px;
+	float: left;
+	display:inline;
+	width:40px;
+	text-align: left;
+	padding: 0 10px -10px 50px;
+	margin:5px 10px 7px 0;
+}
+
+#login-box-field {
+	vertical-align: middle;
+	float: left;
+	display:inline;
+	width:130px;
+	margin:0;
+	margin:0 0 2px 15px;
+}
+
+
+.form-login  {
+	width: 130px;
+	border: 1px solid #333333;
+	background-color:#777777;
+	font-size: 15px;
+	color: #ebebeb;
+}
+
+
+.login-box-options  {
+	clear:both;
+}
+
+.login-box-options a {
+	color: #ebebeb;
+	font-size: 11px;
+}
+
+#button  {
+	align:center;
+{
